@@ -4,7 +4,7 @@
   
 ## [1 我是否认清并理解今天互联网世界的基本结构？](https://github.com/gitgitcode/Big-Data-and-Information-Dissemination/blob/master/%E6%88%91%E6%98%AF%E5%90%A6%E8%AE%A4%E6%B8%85%E5%B9%B6%E7%90%86%E8%A7%A3%E4%BB%8A%E5%A4%A9%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%96%E7%95%8C%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84.md)
 ## [2 我么是否能识别并洞察存在社会化媒体中的各类人群？](https://github.com/gitgitcode/Big-Data-and-Information-Dissemination/blob/master/%E8%AF%9D%E9%A2%982%E6%88%91%E4%B9%88%E6%98%AF%E5%90%A6%E8%83%BD%E8%AF%86%E5%88%AB%E5%B9%B6%E6%B4%9E%E5%AF%9F%E5%AD%98%E5%9C%A8%E7%A4%BE%E4%BC%9A%E5%8C%96%E5%AA%92%E4%BD%93%E4%B8%AD%E7%9A%84%E5%90%84%E7%B1%BB%E4%BA%BA%E7%BE%A4.md)
-## [3 我们是否能厘清互联网社会人群的镶嵌，连接和涌现的规律？](https://github.com/gitgitcode/Big-Data-and-Information-Dissemination/blob/master/3%E6%88%91%E4%BB%AC%E6%98%AF%E5%90%A6%E8%83%BD%E5%8E%98%E6%B8%85%E4%BA%92%E8%81%94%E7%BD%91%E7%A4%BE%E4%BC%9A%E4%BA%BA%E7%BE%A4%E7%9A%84%E9%95%B6%E5%B5%8C%EF%BC%8C%E8%BF%9E%E6%8E%A5%E5%92%8C%E6%B6%8C%E7%8E%B0%E7%9A%84%E8%A7%84%E5%BE%8B.md)
+## [3 我们是否能厘清互联网社会人群的镶嵌，连接和涌现的规律？](hhttps://github.com/gitgitcode/Big-Data-and-Information-Dissemination/blob/master/4%E6%88%91%E6%98%AF%E5%90%A6%E8%83%BD%E5%A4%9F%E8%8E%B7%E5%8F%96%E7%BD%91%E7%BB%9C%E4%BA%BA%E7%BE%A4%E2%80%9C%E4%BA%92%E5%8A%A8%EF%BC%8C%E5%AF%B9%E8%AF%9D%E2%80%9D%E7%9A%84%E7%BC%98%E7%94%B1.md)
 ## [4 我是否能够获取网络人群“互动，对话”的缘由？](https://github.com/gitgitcode/Big-Data-and-Information-Dissemination/blob/master/3%E6%88%91%E4%BB%AC%E6%98%AF%E5%90%A6%E8%83%BD%E5%8E%98%E6%B8%85%E4%BA%92%E8%81%94%E7%BD%91%E7%A4%BE%E4%BC%9A%E4%BA%BA%E7%BE%A4%E7%9A%84%E9%95%B6%E5%B5%8C%EF%BC%8C%E8%BF%9E%E6%8E%A5%E5%92%8C%E6%B6%8C%E7%8E%B0%E7%9A%84%E8%A7%84%E5%BE%8B.md)
 ## [5 我们是否理解网络口碑的产生，作用及其对社会发展的影响？]()
 ## [6 我们是否以APP为例，理解占据移动互联网入口的独特作用？]()
