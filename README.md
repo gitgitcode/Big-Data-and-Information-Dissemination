@@ -3,7 +3,7 @@
   主要讨论8个话题包括：
   
 ## [1 我是否认清并理解今天互联网世界的基本结构？](https://github.com/gitgitcode/Big-Data-and-Information-Dissemination/blob/master/%E6%88%91%E6%98%AF%E5%90%A6%E8%AE%A4%E6%B8%85%E5%B9%B6%E7%90%86%E8%A7%A3%E4%BB%8A%E5%A4%A9%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%96%E7%95%8C%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84.md)
-## 2 我么是否能识别并洞察存在社会化媒体中的各类人群？
+## [2 我么是否能识别并洞察存在社会化媒体中的各类人群？](https://github.com/gitgitcode/Big-Data-and-Information-Dissemination/blob/master/%E8%AF%9D%E9%A2%982%E6%88%91%E4%B9%88%E6%98%AF%E5%90%A6%E8%83%BD%E8%AF%86%E5%88%AB%E5%B9%B6%E6%B4%9E%E5%AF%9F%E5%AD%98%E5%9C%A8%E7%A4%BE%E4%BC%9A%E5%8C%96%E5%AA%92%E4%BD%93%E4%B8%AD%E7%9A%84%E5%90%84%E7%B1%BB%E4%BA%BA%E7%BE%A4.md)
 ## 3 我们是否能厘清互联网社会人群的镶嵌，连接和涌现的规律？
 ## 4 我是否能够获取网络人群“互动，对话”的缘由？
 ## 5 我们是否理解网络口碑的产生，作用及其对社会发展的影响？
