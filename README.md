@@ -29,5 +29,6 @@
 14、[美]道格拉斯.肯利克等著，自我、群体、社会-进入西奥迪尼的社会心理学课堂，中国人民大学出版社，2011.4
 15、[美]卡尔.维克著，组织社会心理学:如何理解和鉴赏组织，中国人民大学出版社，2009.9
 16、[美]菲利普•科特勒，凯文•莱恩•凯勒著，梅清豪译，营销管理，上海人民出版社，2012.4 ,第14版
-[复杂性思维](https://legacy.gitbook.com/book/wizardforcel/think-comp-2e/details)
+
 ```
+[复杂性思维](https://legacy.gitbook.com/book/wizardforcel/think-comp-2e/details)
